@@ -1,6 +1,3 @@
-<!--<img src="https://raw.githubusercontent.com/sakhsain/sakhsain/main/programming-crazy.gif">
--->
-<img src="https://raw.githubusercontent.com/sakhsain/sakhsain/main/programming.gif">
 
 # Hi there 👋 Welcome to my GitHub! I'm <a href="https://github.com/sakhsain">@sakhsain</a>. 
 
