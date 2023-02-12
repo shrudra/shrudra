@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/sakhsain/sakhsain/main/programming-crazy.gif">
+<img src="https://raw.githubusercontent.com/sakhsain/sakhsain/main/discord-discordgifemoji.gif">
 
-# Hi there 👋 Welcome to my GitHub! I'm <a href="https://github.com/sakhsain">@sakhsain</a>. <img src="https://raw.githubusercontent.com/sakhsain/sakhsain/main/discord-discordgifemoji.gif">
+# Hi there 👋 Welcome to my GitHub! I'm <a href="https://github.com/sakhsain">@sakhsain</a>. 
 
 - 😄 Pronouns: _Sākhā'ōẏāta hōsēna_
 - 🚩 Present Address: Dhaka, Bangladesh 🇧🇩.
