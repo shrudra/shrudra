@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my GitHub! I'm <a href="https://github.com/sakhsain">@sakhsain</a>
+# Hi there 👋 Welcome to my GitHub! I'm <a href="https://github.com/sakhsain">@sakhsain</a> <img src="https://raw.githubusercontent.com/sakhsain/sakhsain/main/programming-crazy.gif">
 - 😄 Pronouns: _Sākhā'ōẏāta hōsēna_
 - 🚩 Present Address: Dhaka, Bangladesh 🇧🇩.
 - 🚩 Permanent Address: Mymensingh, Bangladesh 🇧🇩.
