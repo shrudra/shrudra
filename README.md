@@ -1,4 +1,5 @@
 # Hi there 👋 Welcome to my GitHub! I'm <a href="https://github.com/sakhsain">@sakhsain</a>. 
+I am very interested in academic studies as well as extra-curricular activities. I want to work for the country. I have been working with various social organizations since my school.I have received many ‘Abhinandan’ and ‘Shubheccha’ awards for participating in Bishwo Shahitto Kendro’s country-based excellence program for school students.And I debated in school, painted pictures, gave speeches.
 
 - 😄 Pronouns: _Sākhā'ōẏāta hōsēna_
 - 📍 Present Address: Dhaka, Bangladesh 🇧🇩.
