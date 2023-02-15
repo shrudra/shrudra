@@ -4,7 +4,6 @@ My name is Sakhawat Hossain and I am an open source developer. I am from Banglad
 - 😄 Pronouns: _Sākhā'ōẏāta hōsēna_
 - 🚩 Address: Mymensingh, Bangladesh.
 - 🎓 Education: ***Diploma in Engineering in Computer Technology***, Dhaka Polytechnic Institute.  
-- 🔧 Working Experience: Volunteer at ***[BdOSN](https://bdosn.org)*** _(Feb 23 - Present)_, Admin at ***[PHP User Group Gafargaon](#)*** _(Feb 23 - Present)_, Team Leader & Project Manager at ***[Team Karigor](#)*** _(Sep 22 - Present)_, Member at ***[DPI IT Society](#)*** _(Aug 22 - Present)_, Campus Ambassador at ***[IDEB IoT & Robotics Research Lab](https://ideb.org.bd)*** _(Jul 22 - Present)_.
 - 🎲 I have participated in the ***NASA Space Apps Challenge***, National Hackathon, Bangladesh. 
 - 👨‍💻 I like to create `gist` on <img src="https://img.shields.io/badge/-black?style=flat&logo=Github">.
 - ⚡ Fun fact: I love <img src="https://img.shields.io/badge/-white?style=flat&logo=CodeIgniter"> more than <img src="https://img.shields.io/badge/-white?style=flat&logo=Laravel">.
