@@ -5,7 +5,6 @@ My name is Sakhawat Hossain and I am an open source developer. I am from Banglad
 - 🚩 Address: Mymensingh, Bangladesh.
 - 🎓 Education: ***Diploma in Engineering in Computer Technology***, Dhaka Polytechnic Institute.  
 - 🎲 I have participated in the ***NASA Space Apps Challenge***, National Hackathon, Bangladesh. 
-- 👨‍💻 I like to create `gist` on <img src="https://img.shields.io/badge/-black?style=flat&logo=Github">.
 - ⚡ Fun fact: I love <img src="https://img.shields.io/badge/-white?style=flat&logo=CodeIgniter"> more than <img src="https://img.shields.io/badge/-white?style=flat&logo=Laravel">.
 - 📩 Want a quick response? **:⁠-⁠)** Send a message to [![Telegram Badge](https://img.shields.io/badge/-@sakhsain-black?style=flat&logo=Telegram&logoColor=#0088cc&link=sakhsain)](https://t.me/sakhsain).
 <p align="center">
