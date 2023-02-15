@@ -2,8 +2,7 @@
 My name is Sakhawat Hossain and I am an open source developer. I am from Bangladesh 🇧🇩 and currently working on [FluxBB-Bengali-Translation](https://gitHub.com/sakhsain/FluxBB-Bengali-Translation).I am very interested in extra-curricular activities as well as academic studies. On my spare time, I love to participate in developers community events.
 
 - 😄 Pronouns: _Sākhā'ōẏāta hōsēna_
-- 📍 Present Address: Dhaka, Bangladesh.
-- 🚩 Permanent Address: Mymensingh, Bangladesh.
+- 🚩 Address: Mymensingh, Bangladesh.
 - 👦 I have many friends from different countries like 🇮🇳,🇵🇰,🇵🇭,🇹🇷,🇺🇿,🇩🇪.
 - 🎓 Education: ***Diploma in Engineering in Computer Technology***, Dhaka Polytechnic Institute.  
 - 🔧 Working Experience: Volunteer at ***[BdOSN](https://bdosn.org)*** _(Feb 23 - Present)_, Admin at ***[PHP User Group Gafargaon](#)*** _(Feb 23 - Present)_, Team Leader & Project Manager at ***[Team Karigor](#)*** _(Sep 22 - Present)_, Member at ***[DPI IT Society](#)*** _(Aug 22 - Present)_, Campus Ambassador at ***[IDEB IoT & Robotics Research Lab](https://ideb.org.bd)*** _(Jul 22 - Present)_.
