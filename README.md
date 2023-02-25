@@ -21,4 +21,3 @@
 
 | [![BdOSN](assets/images/bdOSN-logo.jpg "Bangladesh Open Source Network - BdOSN")](https://bdosn.org)  | [![BSF-DPI](assets/images/bsf-logo.png "BASIS Students Forum - DPI Chapter")](https://bsf.basis.org.bd) |
 |:---------:|:----------------------------------:|
-| [![IDEB](assets/images/IDEB.png "Institution of Diploma Engineers, Bangladesh ")](https://ideb.org.bd) 
