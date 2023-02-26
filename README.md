@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Sakhawat.
 - 🔭 I’m currently working on <a href="https://github.com/sakhsain">Jekyll Vitae</a>.
-- 🌱 I’m currently learning Web application penetration testing.
+- 🌱 I’m currently learning **Web application penetration testing**.
 - 🚀 I’m looking to collaborate on <a href="https://github.com/FluxBB-Bengali-Translation"> FluxBB-Bengali-Translation </a>
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Web Development.
-<!-- - 📫 How to reach me: ... -->
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: <a href="mailto:sakhwt.hssain@gmail.com">sakhwt.hssain@gmail.com</a>
+- 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: ... -->
 
 # Organizations
