@@ -6,7 +6,7 @@
 - 💬 Ask me about Web Development.
 - 📫 How to reach me: <a href="mailto:sakhwt.hssain@gmail.com">sakhwt.hssain@gmail.com</a>
 - 😄 Pronouns: he/him
-<!-- - ⚡ Fun fact: ... -->
+- ⚡ Fun fact: I love to create public gist on GitHub.
 
 # Organizations
 <!-- [![BdOSN](/bdosn-logo.png "Bangladesh Open Source Network - BdOSN")](https://bdosn.org) 
