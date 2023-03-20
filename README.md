@@ -32,6 +32,4 @@
 | Position 3 | Description about position 3 |
 -->
 
-| Name  | 
-|:---------:|
-| [![BdOSN](assets/images/bdOSN-logo.jpg "Bangladesh Open Source Network - BdOSN")](https://bdosn.org) | 
+<img src="assets/images/bdOSN-logo.jpg" width="100" height="auto" title="Bangladesh Open Source Network - bdOSN">
