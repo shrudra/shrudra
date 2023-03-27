@@ -30,6 +30,6 @@
 | [![IDEB](assets/images/IDEB.png "Institution of Diploma Engineers, Bangladesh ")](https://ideb.org.bd) | Period of work (mm/yyyy - mm/yyyy) |
 |:---------:|:----------------------------------:|
 | Position 3 | Description about position 3 |
--->
 
-<img src="assets/images/bdOSN-logo.jpg" width="100" height="auto" title="Bangladesh Open Source Network - bdOSN">
+
+<img src="assets/images/bdOSN-logo.jpg" width="100" height="auto" title="Bangladesh Open Source Network - bdOSN"> -->
