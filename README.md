@@ -2,7 +2,7 @@
  [![Hackathon](assets/images/image.jpeg "I'm in NASA Space Apps Challenge - National Hackathon, Bangladesh")](#) 
 ## Hi there 👋, I'm Sakhawat.
 - 🔭 I’m currently working on <a href="https://github.com/sakhsain/phpworko">phpWorko</a>.
-- 🌱 I’m currently learning **Prompt Engineering **.
+- 🌱 I’m currently learning **Prompt Engineering**.
 - 🚀 I’m looking to collaborate on <a href="https://github.com/sakhsain/FluxBB-Bengali-Translation"> FluxBB-Bengali-Translation </a>
 - 💬 Ask me about Web Development.
 - 📫 How to reach me: <a href="mailto:sakhwt.hssain@gmail.com">sakhwt.hssain@gmail.com</a>
