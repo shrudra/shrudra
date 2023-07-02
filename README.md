@@ -3,7 +3,7 @@
 ## Hi there 👋, I'm Sakhawat Hossain.
 <!-- - 🔭 I’m currently working on <a href="https://github.com/shrudra/phpworko">phpWorko</a>. -->
 - 🌱 I’m currently learning **Data Science**.
-- 🚀 I’m looking to collaborate on <a href="https://github.com/shrudra/phpworko">phpWorko</a>
+<!-- - 🚀 I’m looking to collaborate on <a href="https://github.com/shrudra/phpworko">phpWorko</a> -->
 - 💬 Ask me about Web Development.
 - 📫 How to reach me: <a href="mailto:sakhwt.hssain@gmail.com">sakhwt.hssain@gmail.com</a>
 - 😄 Pronouns: he/him
