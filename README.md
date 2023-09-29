@@ -17,3 +17,4 @@
 4. 📝 I daily write blog on [dev.to](https://dev.to/shrudra).
 5. 🏠 My hometown is Mymensingh, Bangladesh.
 
+[![An image of @shrudra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrudra)](https://holopin.io/@shrudra)
