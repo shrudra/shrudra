@@ -1,5 +1,5 @@
-<!-- [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua) -->
- [![Hackathon](assets/images/image.jpeg "I'm in the NASA Space Apps Challenge - National Hackathon, Bangladesh")](#) 
+<!-- [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+ [![Hackathon](assets/images/image.jpeg "I'm in the NASA Space Apps Challenge - National Hackathon, Bangladesh")](#)  -->
 
 [![An image of @shrudra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrudra)](https://holopin.io/@shrudra)
 
