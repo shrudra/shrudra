@@ -6,11 +6,12 @@
 ## Hi there 👋, I'm Sakhawat Hossain.
 <!-- - 🔭 I’m currently working on <a href="https://github.com/shrudra/phpworko">phpWorko</a>. 
 - 🌱 I’m currently learning **Laravel**.
-- 🚀 I’m looking to collaborate on <a href="https://github.com/shrudra/WP-Simple-Author-Box ">WP Simple Author Box</a> -->
-- 💬 Ask me about Data Science.  -->
-- 📫 How to reach me: <a href="mailto:sakhwt.hssain@gmail.com">sakhwt.hssain@gmail.com</a>
+- 🚀 I’m looking to collaborate on <a href="https://github.com/shrudra/WP-Simple-Author-Box ">WP Simple Author Box</a>
+- 💬 Ask me about Data Science.-->
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to create public gist on GitHub.
+- 📫 How to reach me: <a href="mailto:sakhwt.hssain@gmail.com">sakhwt.hssain@gmail.com</a>
+
 
 ## 🍿 5 Random Facts About Me
 
