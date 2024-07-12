@@ -4,10 +4,10 @@
 [![An image of @shrudra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrudra)](https://holopin.io/@shrudra)
 
 ## Hi there 👋, I'm Sakhawat Hossain.
-<!-- - 🔭 I’m currently working on <a href="https://github.com/shrudra/phpworko">phpWorko</a>. -->
+<!-- - 🔭 I’m currently working on <a href="https://github.com/shrudra/phpworko">phpWorko</a>. 
 - 🌱 I’m currently learning **Laravel**.
-- 🚀 I’m looking to collaborate on <a href="https://github.com/shrudra/WP-Simple-Author-Box ">WP Simple Author Box</a>
-- 💬 Ask me about Web Development.
+- 🚀 I’m looking to collaborate on <a href="https://github.com/shrudra/WP-Simple-Author-Box ">WP Simple Author Box</a> -->
+- 💬 Ask me about Data Science.  -->
 - 📫 How to reach me: <a href="mailto:sakhwt.hssain@gmail.com">sakhwt.hssain@gmail.com</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to create public gist on GitHub.
