@@ -1,22 +1,12 @@
-<!-- [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
- [![Hackathon](assets/images/image.jpeg "I'm in the NASA Space Apps Challenge - National Hackathon, Bangladesh")](#)  -->
-
 [![An image of @shrudra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrudra)](https://holopin.io/@shrudra)
 
 ## Hi there 👋, I'm Sakhawat Hossain.
-<!-- - 🔭 I’m currently working on <a href="https://github.com/shrudra/phpworko">phpWorko</a>. 
-- 🌱 I’m currently learning **Laravel**.
-- 🚀 I’m looking to collaborate on <a href="https://github.com/shrudra/WP-Simple-Author-Box ">WP Simple Author Box</a>
-- 💬 Ask me about Data Science.-->
+
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to create public gist on GitHub.
 - 📫 How to reach me: <a href="mailto:sakhwt.hssain@gmail.com">sakhwt.hssain@gmail.com</a>
 
-
-## 🍿 5 Random Facts About Me
+## 🍿 Random Facts About Me
 
 1. 🌭 I like to eat biryani, phuchka and haleem very much.
-2. 📃 I keep a running list of [My Life's Bucket List: Goals to Achieve](https://shrudra.github.io/bucket-list.html).
-3. 🗓️ I maintain a [dynamic calendar](https://shrudra.github.io/calendar.html) that I update with my daily tasks.
-4. 📝 I daily write blog on [dev.to](https://dev.to/shrudra).
-5. 🏠 My hometown is Mymensingh, Bangladesh.
+2. 🏠 My hometown is Mymensingh, Bangladesh.
