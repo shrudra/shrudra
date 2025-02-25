@@ -1,6 +1,6 @@
 [![An image of @shrudra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrudra)](https://holopin.io/@shrudra)
 
-## Hi there 👋, I'm Sakhawat Hossain.
+## Hi there 👋, I'm Shakhawat Hossain Rudra.
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to create public gist on GitHub.
